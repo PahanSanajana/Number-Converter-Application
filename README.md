@@ -28,7 +28,7 @@ The application features a user-friendly interface, robust error handling, and s
 
 ## Installation and Usage
 1. **Download the Application**:
-   - Clone or download the repository from the [GitHub page](#) (add link if hosted).
+   - Clone or download the repository from the [[GitHub page](#)](https://github.com/PahanSanajana/Number-Converter-Application.git).
    
 2. **Compile the Source Code**:
    - Open a terminal/command prompt.
